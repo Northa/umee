@@ -1,0 +1,3 @@
+[submodule "cui_blockexplorer/cUI_explorer"]
+	path = cui_blockexplorer/cUI_explorer
+	url = https://github.com/Northa/lion.git
