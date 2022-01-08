@@ -13,7 +13,6 @@ def get_price():
         response = get(FAKE_API).json()
         for addr, price in response.items():
             return price['usd']
-        return float(price['UMEE_ERC20']['usd'])
     except Exception as err:
         print(f"[ERR] {err}")
         exit(0)
