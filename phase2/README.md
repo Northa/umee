@@ -1,3 +1,16 @@
+<details>
+  <summary>Install dependencies if needed:</summary>
+
+```
+sudo apt-get -y install python3-pip
+pip3 install requests
+```
+</details>
+
+
+
+
+
 Open ```batch_fees.py``` and replace NODE_URL with a proper endpoint. 
 
 _Default value http://localhost:1317_
