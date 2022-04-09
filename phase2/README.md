@@ -17,4 +17,6 @@ _Default value http://localhost:1317_
 
 Run the program by following command:
 
-`watch -n 15 python3 batch_fees.py`
+`watch -n 15 python3 batch_fees.py`  
+
+![screen](https://raw.githubusercontent.com/Northa/umee/main/phase2/batch_mon.png)
